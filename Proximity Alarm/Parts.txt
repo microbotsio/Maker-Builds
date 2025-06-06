@@ -1,0 +1,6 @@
+Parts Needed:
+
+- DriveCell Module
+- CoilPad with included 10x1mm disk magnet
+- CodeCell Light with 170mAh Battery with included M1.2 x 4mm Screws (x4)
+- M1.2 x 2mm Screws (x4)
