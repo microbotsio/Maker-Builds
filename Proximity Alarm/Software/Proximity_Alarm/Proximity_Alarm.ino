@@ -19,7 +19,6 @@ bool wakeup = 0;
 bool alarm_enable = 0;
 uint16_t proximity_val_last = 0;
 char myMessage[18];
-float Roll, Pitch, Yaw;
 
 void setup() {
   Serial.begin(115200);  // Start the serial monitor at 115200 baud
