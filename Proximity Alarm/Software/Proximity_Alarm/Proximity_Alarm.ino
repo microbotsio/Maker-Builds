@@ -3,7 +3,7 @@
 #include "MicroLink.h"
 #include <EEPROM.h>
 
-// Define the pins connected to the two DriveCells
+// Define the pins for the DriveCell
 #define IN1_pin1 2
 #define IN1_pin2 3
 
