@@ -1,5 +1,0 @@
-Parts Needed:
-
-- CodeCell Light + Motion with 170mAh Battery
-- M1.2 x 6mm Screws (x4)
-- M1.2 x 2mm Screws (x4)
