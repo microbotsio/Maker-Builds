@@ -55,7 +55,7 @@ void setup() {
   // Initialize the MicroLink Bluetooth connection using
   myMicroLink.Init();
 
-  // Initialize the two DriveCells
+  // Initialize the DriveCell
   myDriveCell.Init();
 
   if (alarm_enable) {
